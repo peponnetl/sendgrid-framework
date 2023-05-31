@@ -1,0 +1,12 @@
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\bin\Debug\net6.0\Sendgrid.Email.deps.json
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\bin\Debug\net6.0\Sendgrid.Email.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\bin\Debug\net6.0\ref\Sendgrid.Email.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\bin\Debug\net6.0\Sendgrid.Email.pdb
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.csproj.CoreCompileInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\ref\Sendgrid.Email.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\sendgrid-framework\src\Sendgrid.Email\obj\Debug\net6.0\Sendgrid.Email.pdb

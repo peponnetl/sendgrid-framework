@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "052af9f2-30a0-428e-818b-5e8d1634fe66": {
+      "ProjectGuid": "052af9f2-30a0-428e-818b-5e8d1634fe66",
+      "DisplayName": "Sendgrid.Email",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
